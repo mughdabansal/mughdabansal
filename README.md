@@ -1,10 +1,3 @@
-- 👋 Hi, I’m @mughdabansal
-- 👀 I’m interested in creating apps and websites.
-- 🌱 I’m currently learning python,html and css and Javascript.
-- 💞️ I’m looking to collaborate on projects further.
-- 📫 How to reach me , mughdabansal1414@gmail.com
+👋 Hi there! I am a software testing student currently pursuing my degree at Lovely Professional University. I am passionate about ensuring the quality and functionality of software through rigorous testing practices. My skills include manual testing, along with proficiency in tools like Jira, Selenium, JUnit, Maven, TestNG, and programming in Java. I'm continuously enhancing my knowledge in automated testing and have a keen interest in performance and functional testing. I'm excited to contribute to projects where I can apply my skills and learn from real-world testing scenarios. Let's connect and collaborate!
 
-<!---
-mughdabansal/mughdabansal is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
